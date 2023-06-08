@@ -1,6 +1,6 @@
 # Python
 
-1. **Advinhe o número** [(link)]('https://github.com/jose-alison/Python/tree/main/Advinhe_o_numero')
+## 1. [**Advinhe o número**]('https://github.com/jose-alison/Python/tree/main/Advinhe_o_numero')
 
    O jogo possui tês rodadas, tendo o jogador apenas uma tentativa de acertar em cada rodada.
 
@@ -14,7 +14,7 @@
 
 ---
 
-2. **Gerador de senhas** [(link)]('https://github.com/jose-alison/Python/tree/main/Gerador_de_senhas')
+## 2. [**Gerador de senhas**]('https://github.com/jose-alison/Python/tree/main/Gerador_de_senhas')
 
    O projeto utiliza a biblioteca random para obter um numero inteiro aleatório entre 1 e 4, que vai randomizar a escolha do caracter, podendo ser: letras maiusculas ou minusculas, números ou caracteres especiais.
    Ao iniciar o programa o usuario irá informar qual tamanho sua senha deve possuir.
