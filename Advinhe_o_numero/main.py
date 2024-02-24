@@ -24,13 +24,14 @@ def game(nivel):
     return print(f'Que pena, o numero era {numero}.\n')
 
 
-def partida(nivel):
+def partida():
+  nivel_jogo = nivel()
   partida = 1
   while partida <= 3:
     print(f'****** Partida {partida} de 3 ******')
-    game(nivel)
+    game(nivel_jogo)
     partida += 1
 
 if __name__ == '__main__':
-  partida(nivel())    
+  partida()    
   
