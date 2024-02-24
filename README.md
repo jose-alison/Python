@@ -1,5 +1,11 @@
 # Python
 
+Executar o programa:
+
+```python
+python main_root.py
+```
+
 ## 1. [**Advinhe o número**]('https://github.com/jose-alison/Python/tree/main/Advinhe_o_numero')
 
    O jogo possui tês rodadas, tendo o jogador apenas uma tentativa de acertar em cada rodada.
@@ -8,9 +14,9 @@
 
    O jogo pode ter três níveis, sendo:
 
-   - `Fácil: um número entre 0 a 10 `
-   - `Médio: Um número entre 0 a 50`
-   - `Difícil: Um número entre 0 a 100`
+- `Fácil: um número entre 0 a 10 `
+- `Médio: Um número entre 0 a 50`
+- `Difícil: Um número entre 0 a 100`
 
 ---
 
